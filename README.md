@@ -1,1 +1,1 @@
-# Multi$^2$
+# Multi-Agent Test-Time Scalable Framework for Multi-Document Processing
